@@ -1,0 +1,48 @@
+body {
+
+	font-family: helvetica, baskerville, sans-serif;
+
+}
+
+h1 {
+
+	font-size:300%;
+	text-align:center;
+	position: relative;
+	top:100px;
+
+}
+
+#bar {
+
+	position: relative;
+	top:70px;
+	text-align: center;
+	word-spacing: 20px;
+
+}
+
+#bar a{
+
+	text-decoration: none;
+	color:black;
+	font-family: baskerville !important;
+
+}
+
+.link-border {
+
+	border-left:1px gray solid;
+	border-right:1px gray solid;
+	padding-left: 5px;
+	padding-right: 5px;
+
+}
+
+html { 
+  background: url(personal.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
